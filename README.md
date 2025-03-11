@@ -7,7 +7,7 @@
 
 Soy un programador Junior pasionado por la tecnología y siempre listo para el próximo reto. Tengo formación en Desarrollo de Aplicaciones Multiplataforma y en Criminología y Seguridad, lo que me da una perspectiva única en el análisis de datos y la seguridad informática.
 
-Tengo experiencia con lenguajes como Java, JavaScript y Kotlin, además de trabajar con frameworks como React y Spring Boot. También utilizo HTML, CSS y Pug para el desarrollo web. Para la gestión de entornos de desarrollo, empleo Docker, y recurro a Markdown para documentar mis proyectos de forma estructurada y profesional.
+Tengo experiencia con lenguajes como Java, JavaScript y Kotlin, además de trabajar con frameworks como React y Spring Boot. También utilizo HTML, CSS para el desarrollo web. Para la gestión de entornos de desarrollo, empleo Docker, y recurro a Markdown para documentar mis proyectos de forma estructurada y profesional.
 
 - :technologist: Me encanta adquirir nuevos conocimientos y enfrentar retos que me ayuden a crecer profesionalmente.
 - :nerd_face: Busco soluciones prácticas y me adapto con facilidad a cualquier situación.
@@ -33,6 +33,7 @@ Tengo experiencia con lenguajes como Java, JavaScript y Kotlin, además de traba
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white>
 </span>
 
 <h4> Frameworks </h4>
